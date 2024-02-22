@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/Ella-ki/Ella-ki/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **Ella-ki/Ella-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
