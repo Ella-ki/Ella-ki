@@ -2,14 +2,14 @@
 <br/>
 <br/>
 
- 🤙 CONTACT
+ - CONTACT 🤙
 
  
 <a href="mailto:﻿ellakim8523@gmail.com"><img src="https://img.shields.io/badge/ellakim8523@gmail.com-EA4335?style=for-the-badge&logo=java&logoColor=white"></a>
 
 <br/>
 
-⚒ TECK STACK
+- TECK STACK ⚒
 
 
 <span><img src="https://img.shields.io/badge/java-507E9C?style=for-the-badge&logo=java&logoColor=white"></span>
@@ -24,7 +24,7 @@
 
 <br/>
 
-✍ I STUDYING
+- I’m studying 👇 👇
 
 
 <span><img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></span>
