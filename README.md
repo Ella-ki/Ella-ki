@@ -1,6 +1,6 @@
 
 <h4 align="center">Hi there 👋 </h4>
-<h4 align="center">This is Gyoyoung Kim. you can call me Ella 🙃</h4>
+<h4 align="center">This is Gyoyoung Kim. You can call me Ella 🙃</h4>
 
 <br/>
 
