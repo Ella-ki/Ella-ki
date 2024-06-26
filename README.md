@@ -4,14 +4,14 @@
 
 <br/>
 
-<h4 align="center">Feel free to contact me 🤙 </h4>
+<h4 align="center">Feel free to contact me 👇</h4>
 
  
 <div align="center">
   <a href="mailto:﻿ellakim8523@gmail.com"><img src="https://img.shields.io/badge/ellakim8523@gmail.com-EA4335?style=for-the-badge&logo=java&logoColor=white"></a>
 </div>
 
-
+<!--
 <br/>
 <h4 align="center">Teck Stack ⚒</h4>
 
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </div>
-
+-->
 <br/>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
